@@ -1,0 +1,6 @@
+[submodule "segment-anything"]
+    path = visual_error_correction/third_party/segment-anything
+    url = https://github.com/facebookresearch/segment-anything.git
+[submodule "segment-anything-2"]
+    path = visual_error_correction/third_party/segment-anything-2
+    url = https://github.com/facebookresearch/segment-anything-2.git
