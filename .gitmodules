@@ -4,3 +4,12 @@
 [submodule "segment-anything-2"]
     path = visual_error_correction/third_party/segment-anything-2
     url = https://github.com/facebookresearch/segment-anything-2.git
+[submodule "visual_error_correction/third_party/segment-anything"]
+	path = visual_error_correction/third_party/segment-anything
+	url = https://github.com/facebookresearch/segment-anything.git
+[submodule "visual_error_correction/third_party/segment-anything-2"]
+	path = visual_error_correction/third_party/segment-anything-2
+	url = https://github.com/facebookresearch/segment-anything-2.git
+[submodule "visual_error_correction/third_party/Ground-Segment-Anything"]
+	path = visual_error_correction/third_party/Ground-Segment-Anything
+	url = https://github.com/IDEA-Research/Grounded-Segment-Anything.git
