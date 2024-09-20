@@ -19,3 +19,6 @@
 [submodule "visual_error_correction/third_party/SEEA"]
 	path = visual_error_correction/third_party/SEEA
 	url = https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.git
+[submodule "visual_error_correction/third_party/OneFormer"]
+	path = visual_error_correction/third_party/OneFormer
+	url = https://github.com/SHI-Labs/OneFormer.git
