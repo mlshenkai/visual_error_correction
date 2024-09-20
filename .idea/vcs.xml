@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/visual_error_correction/third_party/Ground-Segment-Anything" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/visual_error_correction/third_party/Mask2Former" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/visual_error_correction/third_party/Semantic-SAM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/visual_error_correction/third_party/segment-anything" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/visual_error_correction/third_party/segment-anything-2" vcs="Git" />
   </component>
 </project>

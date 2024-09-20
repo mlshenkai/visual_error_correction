@@ -7,3 +7,15 @@
 [submodule "visual_error_correction/third_party/Ground-Segment-Anything"]
 	path = visual_error_correction/third_party/Ground-Segment-Anything
 	url = https://github.com/IDEA-Research/Grounded-Segment-Anything.git
+[submodule "visual_error_correction/third_party/Semantic-SAM"]
+	path = visual_error_correction/third_party/Semantic-SAM
+	url = https://github.com/UX-Decoder/Semantic-SAM.git
+[submodule "visual_error_correction/third_party/Mask2Former"]
+	path = visual_error_correction/third_party/Mask2Former
+	url = https://github.com/facebookresearch/Mask2Former.git
+[submodule "visual_error_correction/third_party/X-Decoder"]
+	path = visual_error_correction/third_party/X-Decoder
+	url = https://github.com/microsoft/X-Decoder.git
+[submodule "visual_error_correction/third_party/SEEA"]
+	path = visual_error_correction/third_party/SEEA
+	url = https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once.git
